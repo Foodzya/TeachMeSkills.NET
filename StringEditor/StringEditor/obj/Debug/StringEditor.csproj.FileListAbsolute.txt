@@ -1,0 +1,7 @@
+C:\Users\Smart\source\repos\StringEditor\StringEditor\bin\Debug\StringEditor.exe.config
+C:\Users\Smart\source\repos\StringEditor\StringEditor\bin\Debug\StringEditor.exe
+C:\Users\Smart\source\repos\StringEditor\StringEditor\bin\Debug\StringEditor.pdb
+C:\Users\Smart\source\repos\StringEditor\StringEditor\obj\Debug\StringEditor.csprojAssemblyReference.cache
+C:\Users\Smart\source\repos\StringEditor\StringEditor\obj\Debug\StringEditor.csproj.CoreCompileInputs.cache
+C:\Users\Smart\source\repos\StringEditor\StringEditor\obj\Debug\StringEditor.exe
+C:\Users\Smart\source\repos\StringEditor\StringEditor\obj\Debug\StringEditor.pdb
