@@ -1,0 +1,14 @@
+C:\Users\Smart\source\repos\Product Inventory Project\Product Inventory Project\bin\Debug\Product Inventory Project.exe.config
+C:\Users\Smart\source\repos\Product Inventory Project\Product Inventory Project\bin\Debug\Product Inventory Project.exe
+C:\Users\Smart\source\repos\Product Inventory Project\Product Inventory Project\bin\Debug\Product Inventory Project.pdb
+C:\Users\Smart\source\repos\Product Inventory Project\Product Inventory Project\obj\Debug\Product Inventory Project.csprojAssemblyReference.cache
+C:\Users\Smart\source\repos\Product Inventory Project\Product Inventory Project\obj\Debug\Product Inventory Project.csproj.CoreCompileInputs.cache
+C:\Users\Smart\source\repos\Product Inventory Project\Product Inventory Project\obj\Debug\Product Inventory Project.exe
+C:\Users\Smart\source\repos\Product Inventory Project\Product Inventory Project\obj\Debug\Product Inventory Project.pdb
+E:\TMS GitHub C#\GitHub\TeachMeSkills.NET\Product Inventory Project\Product Inventory Project\bin\Debug\Product Inventory Project.exe.config
+E:\TMS GitHub C#\GitHub\TeachMeSkills.NET\Product Inventory Project\Product Inventory Project\bin\Debug\Product Inventory Project.exe
+E:\TMS GitHub C#\GitHub\TeachMeSkills.NET\Product Inventory Project\Product Inventory Project\bin\Debug\Product Inventory Project.pdb
+E:\TMS GitHub C#\GitHub\TeachMeSkills.NET\Product Inventory Project\Product Inventory Project\obj\Debug\Product Inventory Project.csprojAssemblyReference.cache
+E:\TMS GitHub C#\GitHub\TeachMeSkills.NET\Product Inventory Project\Product Inventory Project\obj\Debug\Product Inventory Project.csproj.CoreCompileInputs.cache
+E:\TMS GitHub C#\GitHub\TeachMeSkills.NET\Product Inventory Project\Product Inventory Project\obj\Debug\Product Inventory Project.exe
+E:\TMS GitHub C#\GitHub\TeachMeSkills.NET\Product Inventory Project\Product Inventory Project\obj\Debug\Product Inventory Project.pdb
